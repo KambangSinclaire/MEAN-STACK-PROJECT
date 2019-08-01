@@ -1,0 +1,30 @@
+{
+  "name": "mean-stack-application",
+  "version": "1.0.0",
+  "description": "This is a MEAN STACK APPLICATION ",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KambangSinclaire/MEAN-STACK-PROJECT.git"
+  },
+  "keywords": [
+    "COMPLETE",
+    "MEAN",
+    "STACK",
+    "APPLICATION"
+  ],
+  "author": "KAMBANG SINCALRE SUME @NGINYATECH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KambangSinclaire/MEAN-STACK-PROJECT/issues"
+  },
+  "homepage": "https://github.com/KambangSinclaire/MEAN-STACK-PROJECT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
+  }
+}
